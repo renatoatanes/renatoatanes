@@ -1,11 +1,11 @@
 ### Olá !! Me chamo Renato Atanes 👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-atanes-4171471aa/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/renatoatanes_/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renatoatanes_/)
 
 ![atanes GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoatanes&show_icons=true&theme=dark)
 
-### Tecnologias que eu uso frequentemente  
+### Tecnologias mais usadas por mim 
 
 <div style= "display: inline_block" ><br/>
 
